@@ -1,0 +1,38 @@
+{
+  "name": "GMU ERP glass",
+  "slug": "gmu-erp-glass",
+  "summary": "Soft, light glassmorphism for a college ERP: cream wallpaper, maroon and gold, a floating island nav, plain big figures, light panels, falling leaves.",
+  "mood": [
+    "soft",
+    "light",
+    "calm",
+    "glass",
+    "warm"
+  ],
+  "tags": [
+    "glassmorphism",
+    "light-mode",
+    "dashboard",
+    "erp",
+    "island-nav",
+    "mobile-first-adapted"
+  ],
+  "stack": [
+    "React",
+    "TypeScript",
+    "Vite",
+    "Framer Motion",
+    "Lucide",
+    "react-snowfall"
+  ],
+  "palette": {
+    "background": "#f6f2ec",
+    "maroon": "#8c4a4e",
+    "gold": "#c6a258",
+    "text": "#564a44"
+  },
+  "hero": "screenshots/02-home-desktop.jpg",
+  "source": "https://github.com/neonjava/gmu-erp",
+  "status": "shipped",
+  "added": "2026-11-24"
+}

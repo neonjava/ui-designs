@@ -1,0 +1,13 @@
+{
+  "name": "Design name",
+  "slug": "design-name",
+  "summary": "One sentence.",
+  "mood": [],
+  "tags": [],
+  "stack": [],
+  "palette": {},
+  "hero": "screenshots/01-hero.jpg",
+  "source": "",
+  "status": "idea | in-progress | shipped",
+  "added": "YYYY-MM-DD"
+}
